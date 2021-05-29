@@ -1,4 +1,4 @@
-# Assignment 7 - Crawler
+# Assignment 7 - Python Crawler
 
 In this assignment we implemented a very basic Web Crawler with Python.
 
