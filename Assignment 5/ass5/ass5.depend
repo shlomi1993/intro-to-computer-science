@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1577637418 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\element.c
+	<stdio.h>
+	"element.h"
+
+1577580760 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\element.h
+
+1578397462 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\main.c
+	<stdio.h>
+	"stack.h"
+	"queue.h"
+	"element.h"
+	"strings.h"
+
+1577633040 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\stack.h
+	"element.h"
+
+1577580736 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\queue.h
+	"element.h"
+	"stack.h"
+
+1577577948 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\strings.h
+
+1578397762 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"element.h"
+	"stack.h"
+	"queue.h"
+	"strings.h"
+
+1578325093 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"element.h"
+	"stack.h"
+	"queue.h"
+	"strings.h"
+
+1578404381 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 5\ass5\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"element.h"
+	"stack.h"
+	"queue.h"
+	"strings.h"
+
