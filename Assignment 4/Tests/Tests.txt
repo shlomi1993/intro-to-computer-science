@@ -1,0 +1,71 @@
+printf("\nking: %d,%d", kingRow, kingColumn); 
+printf("\nIN. i,j = %d,%d", i,j);
+printf("ENTERED");
+
+      /*************** Data Analysis ***************/
+
+    printf("\n\nData Analysis:\n==============");
+    printf("\n * srcPiece:\t%c", m.srcPiece);
+    printf("\n * Src (i,j):\t%d,%d", m.iSrc, m.jSrc);
+    printf("\n * Dest (i,j):\t%d,%d", m.iDest, m.jDest);
+    printf("\n * Special:\t");
+    if ( m.isCheck ) { printf("Check. ");}
+    if ( m.isMate ) { printf("Mate. ");}
+    if ( m.isCapture ) { printf("Capture. ");}
+    if ( m.isPromotion ) { printf("Promote. ");}
+    printf("\n * PGN Type:\t%d", typeOfPGN(pgn));
+    printf("\n * CheckMate:\t%d", checkMate(isWhiteTurn, m));
+    printf("\n * LegalMove:\t%d", isLegalMove(isWhiteTurn, m));
+    printf("\n");
+  /*  printf("pathBoard:\n");
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            printf(" %c", m.pathBoard[i][j]);
+        }
+        printf("\n");
+    }
+  /*  printf("\n * canGo:\t%d", canGo(board, m));
+    printf("\n");
+    printf("\npathBoard pointer output:\n");
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            printf(" %c", pm->pathBoard[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\n");
+    /*
+    printf("\nisValidCheck: %d", isValidCheck(isWhiteTurn, m));
+    printf("\nisLegalMove: %d", isLegalMove(isWhiteTurn, m));
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            printf(" %c", pm->boardCopy[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\n");
+
+    printf("boardCopy:\n");
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            printf(" %c", m.boardCopy[i][j]);
+        }
+        printf("\n");
+    }
+
+*/
+
+
+
+
+    /// checks ///
+    printf("\n");
+    printf("\npathBoard pointer output:\n");
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            printf(" %c", pm->pathBoard[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\n");
+    /// checks ///

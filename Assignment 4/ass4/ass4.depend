@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1577450237 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\ass4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<assert.h>
+	"ass4.h"
+
+1577435714 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\main.c
+	<stdio.h>
+	"ass4.h"
+
+1576765484 c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\ass4.h
+
+1576608034 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\funcheck.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<assert.h>
+	"ass4.h"
+
+1577619107 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\ass4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<assert.h>
+	"ass4.h"
+
+1576765484 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\ass4.h
+
+1577450870 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 4\ass4\main.c
+	<stdio.h>
+	"ass4.h"
+
+1577450870 source:c:\users\שלומי\desktop\ass4 - last stand\main.c
+	<stdio.h>
+	"ass4.h"
+
+1576765484 c:\users\שלומי\desktop\ass4 - last stand\ass4.h
+
+1577561720 source:c:\users\שלומי\desktop\ass4 - last stand\ass4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<assert.h>
+	"ass4.h"
+

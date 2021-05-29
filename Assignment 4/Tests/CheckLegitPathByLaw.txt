@@ -1,0 +1,12 @@
+    printf("\nmovementRules output:\n");
+    for ( int i = 0 ; i < SIZE ; i++ ) {
+        for ( int j = 0 ; j < SIZE ; j ++ ) {
+            if ( movementRules(board,'Q' , 4, 4, i, j, m.isCapture) ) {
+                printf(" 1");
+            } else {
+                printf(" -");
+            }
+        }
+        printf("\n");
+    }
+    printf("\n");
