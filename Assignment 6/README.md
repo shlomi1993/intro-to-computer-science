@@ -13,6 +13,10 @@ the files dictionary.c and dictionary.h are the implementation of the dictionary
 - removeFromDictionary -- remove entry from the dictionary.
 - printDictionary -- print the dictionary key-value entries.
 
+
+![image](https://user-images.githubusercontent.com/72878018/120077667-332a7980-c0b4-11eb-9793-15e28734766a.png)
+
+
 ## Entry
 
 The files entry.c and entry.h are the implementation of the entry element in the dictionary.
@@ -22,9 +26,14 @@ Each entry contains a key, a value and there are some functions that one can use
 
 As said, dictionary is an abstract data-structure, means it can be implemented with several concrete data-structure such as Binary Tree, AVL Tree or Linked List. This implementation is based on Binary Tree so the files BinTree.c and BinTree.h are the implementation for this Tree.
 
+
+![image](https://user-images.githubusercontent.com/72878018/120077652-1ee67c80-c0b4-11eb-8004-3df7a1d5e411.png)
+
+
 ## Notes
 - A major part of this assignment was to deal with the memory management and solve memory leaks.
 - To detect memory leaks, I used Valgrind tool from https://valgrind.org/.
 - The main.c file is only a driver/test code.
 
+![image](https://user-images.githubusercontent.com/72878018/120077678-40476880-c0b4-11eb-89e0-d17cdc13fbd5.png)
 
