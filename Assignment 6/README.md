@@ -31,9 +31,10 @@ As said, dictionary is an abstract data-structure, means it can be implemented w
 
 
 ## Notes
+- The main.c file is only a driver/test code.
 - A major part of this assignment was to deal with the memory management and solve memory leaks.
 - To detect memory leaks, I used Valgrind tool from https://valgrind.org/.
-- The main.c file is only a driver/test code.
 
-![image](https://user-images.githubusercontent.com/72878018/120077678-40476880-c0b4-11eb-89e0-d17cdc13fbd5.png)
+
+![image](https://user-images.githubusercontent.com/72878018/120077692-55bc9280-c0b4-11eb-808a-e26a8c61358f.png)
 
