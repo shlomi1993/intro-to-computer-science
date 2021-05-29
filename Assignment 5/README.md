@@ -1,4 +1,4 @@
-# Assignment 5
+# Assignment 5 - Stack, Queue and Bracket Balance Problem
 
 In this assignment we had to implement two fundamental Data Structures - a Stack and a Queue.
 
