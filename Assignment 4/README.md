@@ -22,9 +22,11 @@ From a current prospective this assignment look very easy and the attached imple
 ## Examples
 
 Here is an example if FEN method:
+
 ![image](https://user-images.githubusercontent.com/72878018/120076372-d75cf200-c0ad-11eb-9a85-c3164871e91a.png)
 
 Here is an example of the game board:
+
 ![image](https://user-images.githubusercontent.com/72878018/120076387-f52a5700-c0ad-11eb-9189-57a3e5e2288f.png)
 
 
