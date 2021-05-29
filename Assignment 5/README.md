@@ -34,6 +34,7 @@ This implenetation of stack allows to:
 # Part 3 - String - bracket balance problem
 
 In this part we used the stack to solve the bracket balance problem in a given string.
+The solution is in the files strings.c and strings.h.
 
 # Notes
 
