@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1575141930 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\מטלות\assignment 3\ass3\ass3.c
+	<stdio.h>
+	<math.h>
+
+1575140615 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\מטלות\assignment 3\ass3\main.c
+	<stdio.h>
+	<time.h>
+	"ass3.h"
+
+1574981378 c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\מטלות\assignment 3\ass3\ass3.h
+
+1575642392 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\main.c
+	<stdio.h>
+	<time.h>
+	"ass3.h"
+
+1574981378 c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\ass3.h
+
+1575642318 source:c:\users\שלומי\onedrive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\ass3.c
+	<stdio.h>
+	<math.h>
+
+1575642788 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\ass3.c
+	<stdio.h>
+	<math.h>
+
+1575642392 source:c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\main.c
+	<stdio.h>
+	<time.h>
+	"ass3.h"
+
+1574981378 c:\users\שלומי\google drive\מסמכים\לימודים\אקדמיה\שנה א\סמסטר א\מבוא למדעי המחשב\homework\assignment 3\ass3\ass3.h
+
