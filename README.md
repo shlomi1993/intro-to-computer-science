@@ -9,7 +9,7 @@ This repository documents my solutions to the main assignments in Intro to CS co
 - Assignment 4 - Chess Game.
 - Assignment 5 - Stack, Queue and Bracket Balance Problem.
 - Assignment 6 - Dictionary based on Binary Tree with Generics.
-- Assignment 7 - Python Crawler
+- Assignment 7 - Python Crawler.
 
 ## Languages
 - C
