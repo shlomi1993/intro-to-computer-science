@@ -1,8 +1,8 @@
-## Assignment 5
+# Assignment 5
 
 In this assignment we had to implement two fundamental Data Structures - a Stack and a Queue.
 
-# Part 1 - Stack
+## Part 1 - Stack
 
 The files stack.h and stack.c contains the impelentation of the stack.
 
@@ -19,7 +19,7 @@ This implenetation of stack allows to:
 
 ![image](https://user-images.githubusercontent.com/72878018/120076273-6d444d00-c0ad-11eb-877b-ab598c412b4a.png)
 
-# Part 2 - Queue
+## Part 2 - Queue
 
 The files queue.h and queue.c contains the impelentation of the queue.
 
@@ -35,14 +35,14 @@ This implenetation of stack allows to:
 
 ![image](https://user-images.githubusercontent.com/72878018/120076303-906efc80-c0ad-11eb-8ae0-30a68fb1fc0e.png)
 
-# Part 3 - String - bracket balance problem
+## Part 3 - String - bracket balance problem
 
 In this part we used the stack to solve the bracket balance problem in a given string.
 The solution is in the files strings.c and strings.h.
 
 ![image](https://user-images.githubusercontent.com/72878018/120076325-a7adea00-c0ad-11eb-85be-ac1a9ca62a01.png)
 
-# Notes
+## Notes
 
 - This task was also an intro to generics because the elements in both data structure were structs (element).
 - The main.c is only a driver/test code.
