@@ -8,7 +8,6 @@
 
 /***************************
 * Name: Shlomi Ben Shushan *
-* ID: 311408264            *
 * Group: 01 - CS           *
 * Assignment: 5 (file 1/3) *
 ***************************/

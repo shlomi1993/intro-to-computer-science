@@ -1,8 +1,7 @@
 """""""""""""""""""""""""""""
- Name: Shlomi Ben Shushan 
- ID: 311408264            
- Group: 01 - CS           
- Assignment: 7            
+ Name: Shlomi Ben Shushan
+ Group: 01 - CS
+ Assignment: 7
 """""""""""""""""""""""""""""
 
 import csv

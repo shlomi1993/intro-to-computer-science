@@ -1,4 +1,4 @@
-# Intro-to-Computer-Science
+# intro-to-computer-science
 
 This repository documents my solutions to the main assignments in Intro to CS course, which was the first Computer Science's non-mathematical course I took at Bar-Ilan university.
 
